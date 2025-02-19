@@ -1,0 +1,64 @@
+Dev Server Change Log
+
+Added 
+- 2023 Liberty Mega Pack (WSP Pack)
+- jg-mechanic
+- jg-textui
+- jg-vehiclemileage 
+- jg-mechanic-props
+
+Removed
+- 
+
+Changed
+- p_policejob
+- jim-jobgarage
+
+Updated
+- Server Framework
+
+Ready to Transfer
+- 
+
+Notes
+- Server Framework
+ - Updated to FX:12933
+- 2023 Liberty Mega Pack 
+ - Optimized 
+- jg-mechanic
+ - Added
+  - Seattle Police Department - South East Precinct (MRPD)
+  - King County Sheriff's Office - Shoreline (Sandy Shores)
+  - King County Sheriff's Office - Skykomish (Roxwood) 
+- jim-jobgarage
+ - King County Sheriff's Office - Shoreline
+ - King County Sheriff's Office - Skykomish
+- p_policejob
+ - Added 
+  - Station 
+   - King County Sheriff's Office - Shoreline 
+   - King County Sheriff's Office - Skykomish
+  - Bell
+   - King County Sheriff's Office - Shoreline
+   - King County Sheriff's Office - Skykomish 
+  - Body cam 
+   - Seattle Police Department - South East Precinct
+   - King County Sheriff's Office - Shoreline
+   - King County Sheriff's Office - Skykomish 
+  - Toggle Duty
+   - King County Sheriff's Office - Shoreline
+   - King County Sheriff's Office - Skykomish 
+  - Wardrobe
+   - King County Sheriff's Office - Shoreline
+  - Locker
+   - King County Sheriff's Office - Shoreline
+  - Camera
+   - King County Sheriff's Office - Shoreline
+   - King County Sheriff's Office - Skykomish
+  - Evidence Locker
+   - King County Sheriff's Office - Shoreline
+   - King County Sheriff's Office - Skykomish
+  - Mugshot 
+   - King County Sheriff's Office - Shoreline
+   - King County Sheriff's Office - Skykomish
+ 
