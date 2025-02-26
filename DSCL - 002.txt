@@ -1,0 +1,97 @@
+Dev Server Change Log
+
+Added 
+- 23ambulancepack (KCFD Ambulances)
+- 24brushrs (KCFD Brush Trucks)
+- 24velocityenginesrs (KCFD Engines)
+- jim-mechanic
+- jim-bridge
+
+Removed
+- jg-mechanic
+- jg-textui
+- jg-vehiclemileage 
+- jg-mechanic-props
+
+Changed
+- ulc
+- jim-jobgarage
+- p_policejob
+
+Updated
+- oxmysql
+- scully-emotemenu
+
+Notes
+- ulc
+  - Added 
+   - 24velocityenginesrs
+   - 24brushrs
+- 23ambulancepack
+ - Optimized 
+  - Livery
+   - Medic One
+- 24brushrs
+ - Optimized 
+- 24velocityenginesrs
+ - Optimized 
+  - Livery
+   - E207 
+   - E-29 
+   - E-33 
+   - District 20 
+   - District 47 
+   - E431 
+ - jim-mechanic
+  - Added
+   - Seattle Police Department - South East Precinct (MRPD)
+   - King County Sheriff's Office - Shoreline (Sandy Shores)
+   - King County Sheriff's Office - Skykomish (Roxwood) 
+   - Washington State Patrol - District 1 (Vinewood) 
+   - Washington State Patrol - District 2 (Chumash)
+   - Washington State Patrol - District 3 (Paleto)
+- jim-jobgarage
+  - Added
+   - Washington State Patrol - District 1
+   - Washington State Patrol - District 2
+   - Washington State Patrol - District 3
+- p_policejob
+  - Added 
+    - Station 
+     - Washington State Patrol - District 1
+     - Washington State Patrol - District 2
+     - Washington State Patrol - District 3
+  - Bell
+   - Washington State Patrol - District 1
+   - Washington State Patrol - District 2
+   - Washington State Patrol - District 3 
+  - Body cam 
+   - Washington State Patrol - District 1
+   - Washington State Patrol - District 2
+   - Washington State Patrol - District 3 
+  - Toggle Duty
+   - Washington State Patrol - District 1
+   - Washington State Patrol - District 2
+   - Washington State Patrol - District 3 
+  - Wardrobe
+   - Washington State Patrol - District 1
+   - Washington State Patrol - District 2
+   - Washington State Patrol - District 3 
+  - Locker
+   - Washington State Patrol - District 1
+   - Washington State Patrol - District 2
+   - Washington State Patrol - District 3 
+  - Camera
+   - Washington State Patrol - District 1
+   - Washington State Patrol - District 2
+   - Washington State Patrol - District 3 
+  - Evidence Locker
+   - Washington State Patrol - District 1
+   - Washington State Patrol - District 2
+   - Washington State Patrol - District 3 
+  - Mugshot 
+   - Washington State Patrol - District 1
+   - Washington State Patrol - District 2
+   - Washington State Patrol - District 3 
+- jg-mechanic
+ - Removed due to server artifacts 
