@@ -1,0 +1,144 @@
+Dev Server Change Log
+
+Added 
+- Sonoran CAD
+- Server Sided Sirens
+- 25littleseoulfd_ext_rsm
+- 25littleseoulfd_int_rsm
+- lc_fuel
+- lc_utils
+- nopixel4_vehicle_config
+- nopixel4_vehicle_handling
+- nopixel4_vehicles_addon_blockade
+- nopixel4_vehicles_addon_elegy3
+- nopixel4_vehicles_general
+- nopixel4_vehicles_replace_reworked_a_to_c
+- nopixel4_vehicles_replace_reworked_d_to_k
+- nopixel4_vehicles_replace_reworked_l_to_u
+- nopixel4_vehicles_replace_reworked_v_to_z
+- nopixel4_compacts_sounds
+- nopixel4_coupes_sounds
+- nopixel4_motorcycle_sounds
+- nopixel4_mtpo_sfx_sounds
+- nopixel4_muscle_sounds
+- nopixel4_offroad_sounds
+- nopixel4_sedans_sounds
+- nopixel4_semitrucks_sounds
+- nopixel4_service_sounds
+- nopixel4_sports_sounds
+- nopixel4_sportsclassic_sounds
+- nopixel4_suvs_sounds
+
+Removed
+- jim-jobgarage
+- Renewed-Fuel
+
+Changed
+- 25allegiantpackrs
+- 24cenatorpackrs
+- 2023libertypackredandblue
+- nearest-postal
+- .vscode
+- 0bug_MuLticharacter
+- 0bug_Spawnselector
+- lc_utils
+
+Updated
+- wk_wars2x
+- Roxwood Part 1
+- Roxwood Part 2
+- Roxwood Part 3
+- Roxwood Part 4
+- Roxwood Part 5
+- Roxwood Part 6
+- txadmin
+- 0bug-core
+- 0bug_MuLticharacter
+- 0bug_Spawnselector
+- zerobug-reportsystem
+- zr-scoreboard
+- zr-veh-control
+- qs-housing
+
+Notes
+- Sonoran CAD
+ - Optimized
+ - Live Map (Current Postal Code Map)
+ - Added
+    - Roxwood Streets Names
+    - Revised Code of Washington (RCW / Penal Codes)
+ - Changed 
+    - Interstates and Routes to the Postal Map Interstates and Routes (Actual Washington Interstate and Route Names) 
+-  25allegiantpackrs 
+  - Optimized
+  - Fixed Carcoals (Max)
+  - Liveries
+     - Black and White
+     - Blue (A)
+     - Blue (Line)
+     - Black
+ - 24cenatorpackrs
+  - Optimized
+  - Fixed Carcoals (Max)
+  - Liveries
+     - Unincorpated 
+     - Silver and White
+     - Black
+     - Black, White, Green 
+ - 2023libertypackredandblue
+   - Optimized
+   - Fixed Carcoals (Max)
+   - Liveries
+     - Military 
+     - White
+     - Gray
+ - .vscode 
+    - fxmanifest.lua (removes warning on server start in console view) 
+ - Roxwood Part 1
+    - Optimized
+ - Roxwood Part 2
+    - Optimized
+ - Roxwood Part 3
+    - Optimized
+ - Roxwood Part 4
+    - Optimized
+ - Roxwood Part 5
+    - Optimized
+ - Roxwood Part 6
+    - Optimized
+ - Server Sided Sirens
+   - Optimized
+   - Added
+     - SPD
+     - KCSO
+     - WSP
+ - jim-jobgarage
+   - Outdated and does not recive updates
+ - 25littleseoulfd_ext_rsm
+     - Optimized
+ - 25littleseoulfd_int_rsm
+    - Optimized
+ - 0bug_MuLticharacter
+    - Added 
+       - SPD Vehicles to Scene
+       - Medic One to Scene 
+ - 0bug_Spawnselector
+    - Speed up the spawning time 
+ - Renewed-Fuel
+     - Replaced with lc_fuel 
+ - lc_utils
+    - Plate format LLL NNNN (L= Letter and N= Number) 
+ - nopixel4_vehicles_addon_blockade
+     - Optimized
+ - nopixel4_vehicles_addon_elegy3
+     - Optimized
+ - nopixel4_vehicles_general
+     - Optimized
+ - nopixel4_vehicles_replace_reworked_a_to_c
+     - Optimized
+ - nopixel4_vehicles_replace_reworked_d_to_k
+     - Optimized
+ - nopixel4_vehicles_replace_reworked_l_to_u
+     - Optimized
+ - nopixel4_vehicles_replace_reworked_v_to_z
+     - Optimized
