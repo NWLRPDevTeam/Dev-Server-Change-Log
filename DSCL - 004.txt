@@ -1,0 +1,66 @@
+Dev Server Change Log
+
+Added 
+- 25vinewoodsahpstation_ext_rsm
+- 25vinewoodsahpstation_int_rsm
+- turbo_wheels
+- energy_binco
+- energy_mosley
+- energy_ponsonbys
+- energy_stores
+- energy_suburban
+- fiv3devs_pillbox
+- LosSantosCustoms
+- rfc_los_santos_airport_fix
+- rfc_route68_garage
+- AAA_tow
+- pepboys
+- tstudio_alamo_island
+- MotoDealer
+- cfx-nteam-river
+- cfx_prompt_custom_Truck_Repairs
+
+Removed
+- energy_vinewoodpolice
+
+Changed
+-
+
+Updated
+- ox_lib
+- ox_target
+- scully_emotemenu
+- lc_fuel
+- qs-housing
+
+Notes 
+- 25vinewoodsahpstation_ext_rsm (District 1)
+ - Optimized 
+ - Retextured
+- 25vinewoodsahpstation_int_rsm (District 1)
+ - Optimized 
+ - Retextured
+- energy_vinewoodpolice
+ - Replaced with new District 1
+- turbo_wheels
+ - Optimized 
+- energy_binco
+ - Optimized 
+- energy_mosley
+ - Optimized 
+- energy_ponsonbys
+ - Optimized 
+- energy_stores
+ - Optimized 
+- energy_suburban
+ - Optimized 
+- LosSantosCustoms
+ - Optimized 
+- rfc_route68_garage
+ - Optimized 
+- pepboys
+ - Optimized 
+- MotoDealer
+ - Optimized 
+- cfx_prompt_custom_Truck_Repairs
+ - Optimized 
