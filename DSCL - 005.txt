@@ -1,0 +1,42 @@
+Dev Server Change Log
+
+Added 
+-
+
+Removed
+-
+
+Changed
+- jim-mechanic
+- qbx-core
+
+Updated
+- ox_lib
+- 24cenatorpackrs
+
+Notes
+- jim-mechanic
+ - IRL Pricing to parts
+ - Added Mechanic Shops
+     - Cecil Customs
+     - Seattle Customs
+     - WSDOT Seattle
+     - WSDOT Shoreline
+     - WSDOT Woodinville
+ - Added repair Benches (Only for repairs and only when there are no Mechanics on duty)
+     - Beekeers Garage & Parts
+     - Benny's Motorworks South West
+     - Cecil Customs
+     - Flywheels
+     - Los Santos Customs Seattle
+     - Los Santos Customs Shoreline
+     - Mosley
+     - Pep Boys
+     - Seattle Customs
+- qbx-core
+ - Added Jobs
+     - Cecil Customs
+     - Seattle Customs
+     - WSDOT
+- 24cenatorpackrs 
+ - Carcoal Fixed (Max)
